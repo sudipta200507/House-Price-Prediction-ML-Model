@@ -6,7 +6,7 @@ A beginner-to-intermediate machine-learning project that predicts house prices f
 
 Learn the fundamental regression workflow:
 
-`text
+```text
 Property Data
     ↓
 Feature / Target Separation
@@ -18,7 +18,7 @@ Regression Model
 Prediction
     ↓
 Evaluation
-`
+```
 
 ## Concepts Demonstrated
 
